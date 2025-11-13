@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision
+opencv-python
+Pillow
+albumentations
+segmentation-models-pytorch
+pycocotools
+tqdm
+numpy

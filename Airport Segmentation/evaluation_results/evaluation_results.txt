@@ -1,0 +1,32 @@
+Evaluation Results on valid set:
+Number of images evaluated: 18
+
+Performance by Class (sorted by IoU):
+==================================================
+Class Name                       IoU     Accuracy
+--------------------------------------------------
+background                     96.4%        99.2%
+aircraft                       87.9%        96.7%
+tug                            76.8%        96.8%
+ground-power-unit              64.5%        96.2%
+center-line                    60.7%        89.2%
+belt-loader                    55.2%        97.6%
+refueler                       48.0%        98.5%
+equipment-restriction-line      18.2%        19.1%
+passenger                      13.2%        31.5%
+bus                            12.9%        37.2%
+dolly                           2.5%        15.1%
+tug-bar                         0.7%         3.1%
+passenger-stairs                0.2%         0.4%
+ground-staff                    0.1%         0.1%
+cone                            0.0%         0.0%
+follow-me-car                   0.0%         0.0%
+jet-bridge                      0.0%         0.0%
+lavatory-service-vehicle        0.0%         0.0%
+misc-ground-vehicle             0.0%         0.0%
+tether                          0.0%         0.0%
+==================================================
+
+Overall Performance:
+Mean IoU: 26.9%
+Mean Accuracy: 39.0%
